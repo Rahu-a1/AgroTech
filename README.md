@@ -1,0 +1,3 @@
+# AgroTech
+This is a website and also an application which can check whether the plants are healthy or not .
+It is a test repository don't take it seriously pls....
